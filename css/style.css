@@ -13,3 +13,9 @@ body{
 main{
     flex-grow: 1;
 }
+.container{
+    max-width: 1440px;
+    min-width: 360px;
+    width: 90%;
+    margin: 0 auto;
+}
